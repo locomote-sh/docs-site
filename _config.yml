@@ -1,0 +1,9 @@
+# Config for Locomote.sh site
+title: Locomote.sh
+email: info@locomote.sh
+description: Develop PWA easily
+
+baseurl: ""             # the supath for the site /
+url: ""                 # the base hostname
+
+markdown: kramdown
